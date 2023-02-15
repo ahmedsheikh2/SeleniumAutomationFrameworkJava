@@ -1,4 +1,4 @@
-## Asian Group Assignment| Automation Framework Selenium Java with TestNG by M.Ahmad Sohail
+## Asian Group Assignment | Automation Framework Selenium Java with TestNG by M.Ahmad Sohail
 
 🔆 **SOME FEATURES IN FRAMEWORK**
 
@@ -22,13 +22,13 @@
 
 - Take clone of the project using below command
 ```
-git clone 
+git clone https://github.com/ahmedsheikh2/SeleniumAutomationFrameworkJava.git
 ```
 
 **2. Open the project in IntelliJ**
 
 - Open pom.xml
-- Make sure to download all the Maven dependencies
+- Make sure to download all the Maven dependencies by Maven Update
 - Run test case in suite XML (**src/test/resources/suites/Assignment.xml)
 
 **3. Run the Test**
